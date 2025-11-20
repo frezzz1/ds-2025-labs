@@ -1,0 +1,15 @@
+﻿@page
+@model Valuator.Pages.SummaryModel
+@{
+}
+<div class="text-center">
+    @if (Model.Rank == -1)
+    {
+        <p>Оценка содержания не завершена</p>
+    }
+    else
+    {
+        <p>Оценка содержания: @Model.Rank</p>
+        <p>Плагиат: @Model.Similarity</p>
+    }
+</div>
