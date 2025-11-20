@@ -51,7 +51,7 @@ _Это лишь рекомендации, подходящие материал
 - [Common C# code conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 
 ### Статьи по Redis
-
+ 
 - [Redis - Docker](https://www.w3schools.io/nosql/redis-docker-setup/)
 - [Run Redis with Docker Compose](https://kb.objectrocket.com/redis/run-redis-with-docker-compose-1055)
 - [NRedisStack guide (C#/.NET)](https://redis.ranebull.me/docs/latest/develop/clients/dotnet/)
